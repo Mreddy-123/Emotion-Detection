@@ -2,7 +2,7 @@
 
 Introduction
 
-This repository focuses on multi-label emotion detection using transformer models, where the task is to classify text data (such as tweets) into multiple emotion categories like anger, joy, sadness, and more. The project compares and analyzes the performance of several popular transformer-based models, including DistilBERT, Gemma-1.1-2b-it, and Mistral-7B. These models were fine-tuned and evaluated for their effectiveness in emotion classification tasks.
+This repository focuses on multi-label emotion detection using Natural Language Processing (NLP) transformer models, where the task is to classify text data (such as tweets) into multiple emotion categories like anger, joy, sadness, and more. The project compares and analyzes the performance of several popular transformer-based models, including DistilBERT, Gemma-1.1-2b-it, and Mistral-7B. These models were fine-tuned and evaluated for their effectiveness in emotion classification tasks.
 
 
 Models Used:
